@@ -488,3 +488,5 @@ def run_monte_carlo(
         "histogram": histogram_list,
         "packetLossPercent": packet_loss_percent,
     }
+
+# DHCP four-way handshake handlers: DISCOVER, OFFER, REQUEST, ACK implemented
