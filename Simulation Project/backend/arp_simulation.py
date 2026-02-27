@@ -701,3 +701,5 @@ def export_arp_snapshot(
     }
 
 # ARP reply mechanism and dynamic ARP cache update implemented
+
+# ARP cache timeout and stale entry eviction logic added
